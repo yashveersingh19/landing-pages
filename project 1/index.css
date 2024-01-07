@@ -44,6 +44,7 @@ html,body{
     position: absolute;
     top: 13vh;
     left: 20vh;
+    cursor: pointer;
 }
 
 #icons{
@@ -51,6 +52,7 @@ html,body{
     position: absolute;
     top: 13vh;
     right: 20vh;
+    cursor: pointer;
 }
 
 #text1{
@@ -90,6 +92,7 @@ html,body{
     display: flex;
     align-items: center;
     color: #000;
+    cursor: pointer;
 }
 #bottom{
     height: 40%;
